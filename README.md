@@ -48,39 +48,6 @@ A full-stack web application built using the MERN stack (MongoDB, Express.js, Re
 ┃ ┗ App.js / index.js
 
 
-## ⚙️ Getting Started
-
-### 1. Clone the Repository
-```bash
-  git clone https://github.com/YOUR-USERNAME/MERN-Travel-Tourism-App.git
-  cd MERN-Travel-Tourism-App
-
-### 2. Install the Dependencies
-
-  ## Backend
-  cd backend
-  npm install
-  
-  ## Fronend
-  cd ../frontend
-  npm install
-
-### 3. Configure Environment Variables
-Create a .env file in the backend directory:
-
-  PORT=5000
-  MONGO_URI=your_mongodb_connection_string
-  JWT_SECRET=your_jwt_secret
-
-### 4. Run the App
-
-  ## Backend
-  cd backend
-  npm start
-
-  ## Frontend
-  cd frontend
-  npm start
 
 
 
